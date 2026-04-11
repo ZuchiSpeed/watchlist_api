@@ -130,3 +130,4 @@ docker-compose*.yml
 # =============================
 !.gitignore
 README.md
+/generated/prisma
